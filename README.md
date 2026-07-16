@@ -31,6 +31,7 @@ Welcome to the Pattern Generator and Number Analyzer!
 3. Exit
 
 Enter Your Choice: 1
+
 How many rows:5
 
 <pre>
