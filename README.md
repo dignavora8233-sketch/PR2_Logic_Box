@@ -1,4 +1,4 @@
-Patternhonhonogic Box
+# 🚀 Logic Box
 
 **A beginner-friendly Python project that generates star patterns and analyzes a range of numbers through an interactive command-line application.**
 
