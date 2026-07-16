@@ -1,4 +1,4 @@
-# 🚀 Logic Box
+Patternhonhonogic Box
 
 **A beginner-friendly Python project that generates star patterns and analyzes a range of numbers through an interactive command-line application.**
 
@@ -31,18 +31,18 @@ Welcome to the Pattern Generator and Number Analyzer!
 3. Exit
 
 Enter Your Choice: 1
-How many rows: 5
+How many rows:5
 
-'''python
+<pre>
+  
 Pattern
 *
 **
 ***
 ****
 *****
-'''
-
-# 🎯 Learning Objectives
+</pre>
+# 🎯 Learning objectives
 
 - Understand Python loops (`for`, `while`)
 - Practice nested loops
