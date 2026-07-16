@@ -33,12 +33,14 @@ Welcome to the Pattern Generator and Number Analyzer!
 Enter Your Choice: 1
 How many rows: 5
 
+'''python
 Pattern
 *
 **
 ***
 ****
 *****
+'''
 
 # 🎯 Learning Objectives
 
