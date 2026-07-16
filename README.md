@@ -22,13 +22,6 @@ This project is ideal for beginners who want to practice loops, conditional stat
 - Python 3
 - Command Line Interface (CLI)
 
-# 📂 Project Structure
-
-Logic-Box/
-│
-├── logic_box.py
-└── README.md
-
 # 📸 Sample Output
 
 Welcome to the Pattern Generator and Number Analyzer!
