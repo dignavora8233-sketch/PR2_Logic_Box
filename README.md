@@ -60,6 +60,12 @@ Pattern
 - Add more number analysis options (Prime, Armstrong, Palindrome, etc.)
 - Create a GUI version using Tkinter
 
+## 🎥 Project Explanation Video
+
+Watch the complete project explanation here:
+
+https://drive.google.com/file/d/1tDKstoCNY2sg-i5l-JdUegVQDAGOVdqh/view?usp=sharing
+
 # 👩‍💻 Author
 
 **Digna Vora**
