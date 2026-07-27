@@ -1,6 +1,8 @@
 #Logic Box
 
+print("*"*50)
 print("Welcome to the Pattern Generator and Number Analyzer!")
+print("*"*50)
 
 print("select an option:")
 
@@ -38,10 +40,10 @@ while True:
                 
         print("Total Sum:",sum_num)
 
-    elif choice == 3:
-        print("Exiting the program.Goodbye!")
+    elif choice == "3":
+        print("\nExiting the program.Goodbye!")
 
         break
     
     else:
-        print("Please enter avalid choice.")
+        print("Please enter a valid choice(1 , 2 or 3).")
