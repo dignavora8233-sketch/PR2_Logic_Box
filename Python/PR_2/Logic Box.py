@@ -15,13 +15,23 @@ while True:
     choice=input("Enter Your Choice:")
 
     if choice == "1":
-         rows=int(input("how many rows:"))
-         print("Pattern")
+        try:
+            rows = int(input("How many rows: "))
 
-         for i in range(1,rows+1):
-             for j in range(i):
-                 print("*",end="")
-             print()
+            if rows <= 0:
+                print("Please enter a positive number.")
+                continue
+
+            print("\nPattern:\n")
+
+            for i in range(1, rows + 1):
+                for j in range(i):
+                    print("*", end="")
+                print()
+
+        except ValueError:
+            print("Please enter numbers only.")
+
 
     elif choice == "2":
 
